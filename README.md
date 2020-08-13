@@ -34,7 +34,7 @@ $ smp -h
 
     -h, --help                   output usage information
     -V, --version                output the version number
-    -p, --packages               path to the CustomLabels.labels
+    -p, --customlabels           path to the CustomLabels.labels
     -o, --output                 path where to output the merged CustomLabels.labels
 ```
 
