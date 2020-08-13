@@ -1,0 +1,26 @@
+{
+  "name": "sfdc-merge-customlabels",
+  "version": "1.0.0",
+  "description": "Merge CustomLabels.labels",
+  "keyword": [
+    "salesforce",
+    "package",
+    "cli"
+  ],
+  "main": "index.js",
+  "bin": {
+    "smcl": "./bin/smcl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baptistebieber/sfdc-merge-customlabels.git"
+  },
+  "author": "Baptiste BIEBER <baptiste.bieber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "npm": "^6.0.1",
+    "xml2js": "^0.4.17",
+    "xmlbuilder": "^10.0.0"
+  }
+}
